@@ -1,0 +1,14 @@
+@@||google-analytics.com^$important
+@@||doubleclick.net^$important
+@@||google.com^$important
+||mindbox.ru^$important
+||webim.ru^$important
+||programmatic.ru^$important
+||aplaut.io^$important
+||jsdelivr.net^$important
+||azureedge.net^$important
+||textback.io^$important
+||jivosite.com^$important
+||calltouch.ru^$important
+||manalyticshub.com^$important
+||nashstore.ru^$important

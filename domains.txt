@@ -1,3 +1,4 @@
+/((\w+\-)*\w+\.)*(ya(ndex|static)?)(\.[A-z]{2,5})*/$important
 @@||google-analytics.com^$important
 @@||doubleclick.net^$important
 @@||google.com^$important
@@ -12,3 +13,10 @@
 ||calltouch.ru^$important
 ||manalyticshub.com^$important
 ||nashstore.ru^$important
+||bitrix.info^
+||salebot.pro^
+||clck.ru^
+||mradx.net^
+
+
+.jivo.ru

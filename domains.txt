@@ -6,6 +6,9 @@
 @@||doubleclick.net^$important
 @@||google.com^$important
 
+# Allowing other services
+@@||vsassets.io^$important
+
 # Random miscellaneous trackers and services
 /((\w+\-)*\w+\.)*(jivo(site|static)?)(\.[A-z]{2,5})*/$important
 ||mindbox.ru^$important

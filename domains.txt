@@ -1,7 +1,13 @@
+# Blocking all obvious yandex related domains
 /((\w+\-)*\w+\.)*(ya(ndex|static)?)(\.[A-z]{2,5})*/$important
+
+# Allowing Google related domains
 @@||google-analytics.com^$important
 @@||doubleclick.net^$important
 @@||google.com^$important
+
+# Random miscellaneous trackers and services
+/((\w+\-)*\w+\.)*(jivo(site|static)?)(\.[A-z]{2,5})*/$important
 ||mindbox.ru^$important
 ||webim.ru^$important
 ||programmatic.ru^$important
@@ -17,6 +23,3 @@
 ||salebot.pro^
 ||clck.ru^
 ||mradx.net^
-
-
-.jivo.ru

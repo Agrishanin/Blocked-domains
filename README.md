@@ -1,1 +1,2 @@
 # Blocked domains
+Personal blocklist. 

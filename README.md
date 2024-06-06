@@ -1,2 +1,2 @@
 # Blocked domains
-Personal blocklist. 
+Personal AdGuard formatted list of unwanted domains

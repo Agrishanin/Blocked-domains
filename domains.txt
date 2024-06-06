@@ -8,7 +8,6 @@
 
 # Allowing other services
 @@||vsassets.io^$important
-@@cdn.jsdelivr.net^$important
 
 # Random miscellaneous trackers and services
 /((\w+\-)*\w+\.)*(jivo(site|static)?)(\.[A-z]{2,5})*/$important
@@ -16,7 +15,6 @@
 ||webim.ru^$important
 ||programmatic.ru^$important
 ||aplaut.io^$important
-#||jsdelivr.net^$important
 ||azureedge.net^$important
 ||textback.io^$important
 ||jivosite.com^$important

@@ -8,6 +8,11 @@
 
 # Allowing other services
 @@||vsassets.io^$important
+@@cdn.jsdelivr.net^$important
+@@azureedge.net^$important
+@@auth.split.io^$important
+@@sdk.split.io^$important
+
 
 # Random miscellaneous trackers and services
 /((\w+\-)*\w+\.)*(jivo(site|static)?)(\.[A-z]{2,5})*/$important

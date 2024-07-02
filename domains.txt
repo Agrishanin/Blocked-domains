@@ -33,3 +33,13 @@
 ||zoominfo.com^
 ||mango-office.ru^
 ||retailrocket.ru^
+||datago.ru^
+||uxfeedback.ru^
+||acmvid.com^
+||ekacvda.com^
+||weborama-tech.ru^
+||simbad.pro^
+||taglitics.com^
+||diginetica.net^
+||wink.ru^
+||viju.ru^

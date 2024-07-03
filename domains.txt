@@ -25,6 +25,7 @@
 ||jivosite.com^$important
 ||calltouch.ru^$important
 ||manalyticshub.com^$important
+||rustore.ru^$important
 ||nashstore.ru^$important
 ||bitrix.info^
 ||salebot.pro^
@@ -43,3 +44,7 @@
 ||diginetica.net^
 ||wink.ru^
 ||viju.ru^
+||me-talk.ru^
+||verbox.ru^
+||vk-portal.net^
+||userapi.com^

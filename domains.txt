@@ -1,5 +1,5 @@
 # Blocking all obvious yandex related domains
-/((\w+\-)*\w+\.)*(ya(ndex|static)?)(\.[A-z]{2,5})*/$important
+#/((\w+\-)*\w+\.)*(ya(ndex|static)?)(\.[A-z]{2,5})*/$important
 
 # Allowing Google related domains
 @@||google-analytics.com^$important

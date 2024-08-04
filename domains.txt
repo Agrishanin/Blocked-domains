@@ -15,7 +15,8 @@
 
 
 # Random miscellaneous trackers and services
-||rutube.ru^$important
+/((\w+\-)*\w+\.)*(rutube(list|static)?)(\.[A-z]{2,5})*/$important
+||uxfeedback.ru^$important
 #||jivosite.com^$important
 /((\w+\-)*\w+\.)*(jivo(site|static)?)(\.[A-z]{2,5})*/$important
 ||mindbox.ru^$important

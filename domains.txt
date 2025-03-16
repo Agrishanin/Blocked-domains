@@ -69,7 +69,7 @@
 ||userapi.com^
 ||tolstoycomments.com^$important
 ||uiscom.ru^$important
-||bitrix24.ru^$importan
+||bitrix24.ru^$important
 ||comagic.ru^$important
 ||getreview.io^$important
 ||marquiz.ru^$important

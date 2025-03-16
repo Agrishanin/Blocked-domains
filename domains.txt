@@ -16,10 +16,10 @@
 
 
 # Random miscellaneous trackers and services
-/((\w+\-)*\w+\.)*(rutube(list|static)?)(\.[A-z]{2,5})*/$important
+/^((\w+\-)*\w+\.)*(rutube(list|static)?)(\.[A-z]{2,5})*$/$important
+/^((\w+\-)*\w+\.)*(jivo(site|static)?)(\.[A-z]{2,5})*$/$important
+/^([\w-]+\.)*(dzen(infra)?)(\.[a-zA-Z]{2,4}){0,3}$/$important
 ||uxfeedback.ru^$important
-#||jivosite.com^$important
-/((\w+\-)*\w+\.)*(jivo(site|static)?)(\.[A-z]{2,5})*/$important
 ||mindbox.ru^$important
 ||webim.ru^$important
 ||programmatic.ru^$important
@@ -74,7 +74,6 @@
 ||getreview.io^$important
 ||marquiz.ru^$important
 ||talk-me.ru^$important
-#||phncdn.com^
 ||sales-ninja.me^
 ||adspend.space^
 ||datadrivenpromotion.com^
@@ -83,7 +82,6 @@
 ||stellarlabs.ai^
 ||kameleoon.eu^
 ||ninsel.ws^
-@@||api.ninsel.ws^$important
 ||ams2-cdn.2gis.com^$important
 ||consultnn.ru^
 ||site-chat.me^
@@ -120,3 +118,32 @@
 ||tns-counter.ru^
 ||omnidesk.ru^
 ||chaport.com^
+||aristosgroup.ru^
+||leadrive.me^
+||stripe.com^$important
+||fastbots.ai^$important
+||xhvideo.sacdnssedge.com^$important
+||onef.pro^$important
+||ops.beeline.ru^$important
+||retailcrm.tech^$important
+||tc.rostaxi.org^$important
+||tc.taxitax.org^$important
+||usocial.pro^$important
+||dmca.com^$important
+||vkvideo.ru^$important
+||albacross.com^$important
+||flomni.com^$important
+||terratraf.io^$important
+||sendsay.ru^$important
+||exponea.com^$important
+||whoer.com^$important
+||roistat.com^$important
+||appzi.io^$important
+||click.ru^$important
+||chatra.io^$important
+||trustlink.ru^$important
+||ulogin.ru^$important
+||getsale.io^$important
+||uptolike.com^$important
+||onetrust.com^$important
+||cookielaw.org^$important

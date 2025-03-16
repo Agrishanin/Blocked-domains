@@ -111,8 +111,6 @@
 ||imgsmail.ru^
 ||apptracer.ru^
 ||vk.com^
-||dzen.ru^
-||dzeninfra.ru^
 ||okcdn.ru^
 ||vk.ru^
 ||tns-counter.ru^

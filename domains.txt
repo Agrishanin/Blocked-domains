@@ -1,6 +1,6 @@
 # Blocking all obvious yandex related domains
 # old: /((\w+\-)*\w+\.)*(ya(ndex|static|ngo)?)(\.[A-z]{2,5})*/$important
-/^([\w-]+\.)*(ya(ndex|static|ngo)?)(\.[a-zA-Z]{2,4}){0,3}$/
+/^([\w-]+\.)*(ya(ndex|static|ngo)?)(\.[a-zA-Z]{2,4}){0,3}$/$important
 
 # Allowing Google related domains
 @@||google-analytics.com^$important
@@ -16,8 +16,8 @@
 
 
 # Random miscellaneous trackers and services
-/^((\w+\-)*\w+\.)*(rutube(list|static)?)(\.[A-z]{2,5})*$/$important
-/^((\w+\-)*\w+\.)*(jivo(site|static)?)(\.[A-z]{2,5})*$/$important
+/^([\w-]+\.)*(rutube(list|static)?)(\.[a-zA-Z]{2,4}){0,3}*$/$important
+/^([\w-]+\.)*(jivo(site|static)?)(\.[a-zA-Z]{2,4}){0,3}*$/$important
 /^([\w-]+\.)*(dzen(infra)?)(\.[a-zA-Z]{2,4}){0,3}$/$important
 ||uxfeedback.ru^$important
 ||mindbox.ru^$important

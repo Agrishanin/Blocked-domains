@@ -49,7 +49,6 @@
 ||fast.chameleon.io^$important
 ||ext.clickstream.sberbank.ru^$important
 ||doppiocdn.net^
-#||bitrix.info^
 ||salebot.pro^
 ||clck.ru^
 ||mradx.net^

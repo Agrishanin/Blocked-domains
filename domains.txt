@@ -1,6 +1,7 @@
 # Blocking all obvious yandex related domains
 # old: /((\w+\-)*\w+\.)*(ya(ndex|static|ngo)?)(\.[A-z]{2,5})*/$important
 /^([\w-]+\.)*(ya(ndex(cloud)?|static|ngo)?)(\.[a-zA-Z]{2,4}){0,3}$/$important
+||yango-maps-public.s3.eu-central-1.amazonaws.com^$important
 
 # Allowing Google related domains
 @@||google-analytics.com^$important
@@ -19,6 +20,8 @@
 /^([\w-]+\.)*(rutube(list|static)?)(\.[a-zA-Z]{2,4}){0,3}*$/$important
 /^([\w-]+\.)*(jivo(site|static)?)(\.[a-zA-Z]{2,4}){0,3}*$/$important
 /^([\w-]+\.)*(dzen(infra)?)(\.[a-zA-Z]{2,4}){0,3}$/$important
+/^([\w-]+\.)*bitrix(24)?(\.[a-zA-Z]{2,4}){0,3}$/$important
+||onetrust.io^$important
 ||uxfeedback.ru^$important
 ||mindbox.ru^$important
 ||webim.ru^$important
@@ -46,7 +49,7 @@
 ||fast.chameleon.io^$important
 ||ext.clickstream.sberbank.ru^$important
 ||doppiocdn.net^
-||bitrix.info^
+#||bitrix.info^
 ||salebot.pro^
 ||clck.ru^
 ||mradx.net^

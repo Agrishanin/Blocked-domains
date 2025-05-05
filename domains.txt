@@ -17,8 +17,8 @@
 
 
 # Random miscellaneous trackers and services
-/^([\w-]+\.)*(rutube(list|static)?)(\.[a-zA-Z]{2,4}){0,3}*$/$important
-/^([\w-]+\.)*(jivo(site|static)?)(\.[a-zA-Z]{2,4}){0,3}*$/$important
+/^([\w-]+\.)*(rutube(list|static)?)(\.[a-zA-Z]{2,4}){0,3}$/$important
+/^([\w-]+\.)*(jivo(site|static)?)(\.[a-zA-Z]{2,4}){0,3}$/$important
 /^([\w-]+\.)*(dzen(infra)?)(\.[a-zA-Z]{2,4}){0,3}$/$important
 /^([\w-]+\.)*bitrix(24)?(\.[a-zA-Z]{2,4}){0,3}$/$important
 ||onetrust.io^$important
